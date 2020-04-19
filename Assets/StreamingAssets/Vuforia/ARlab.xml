@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="alchemy-18" size="100.000000 100.000000" />
+    <ImageTarget name="alchemy-14" size="100.000000 100.000000" />
+    <ImageTarget name="alchemy-6" size="100.000000 100.000000" />
+    <ImageTarget name="alchemy-5" size="100.000000 100.000000" />
+    <ImageTarget name="alchemy-22" size="100.000000 100.000000" />
+    <ImageTarget name="aquarius" size="100.000000 100.000000" />
+    <ImageTarget name="alchemy-11" size="100.000000 100.000000" />
+    <ImageTarget name="alchemy-17" size="100.000000 100.000000" />
+    <ImageTarget name="virgo" size="100.000000 100.000000" />
+    <ImageTarget name="venus-4" size="100.000000 100.000000" />
+    <ImageTarget name="scorpio" size="100.000000 100.000000" />
+    <ImageTarget name="libra" size="100.000000 100.000000" />
+    <ImageTarget name="alchemy-4" size="100.000000 100.000000" />
+    <ImageTarget name="sun" size="100.000000 100.000000" />
     <ImageTarget name="logoTreasure" size="100.000000 100.000000" />
+    <ImageTarget name="logo2v1" size="100.000000 100.000000" />
   </Tracking>
 </QCARConfig>
